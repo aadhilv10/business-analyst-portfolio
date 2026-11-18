@@ -1,3 +1,4 @@
+![Sales Dashboard](Sales_Dashboard.png)
 # 📊 Business Sales Performance Analysis
 
 ### Excel-Based Business Analyst Portfolio Project

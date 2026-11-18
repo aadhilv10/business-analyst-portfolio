@@ -1,4 +1,3 @@
-![Sales Dashboard](Sales_Dashboard.png)
 # 📊 Business Sales Performance Analysis
 
 ### Excel-Based Business Analyst Portfolio Project
@@ -6,7 +5,7 @@
 A practical business analysis case study using Microsoft Excel to analyse retail sales data, identify business trends, and generate actionable insights.
 
 ## 🎯 Project Overview
-
+![Sales Dashboard](Sales_Dashboard.png)
 This project focuses on analysing a simulated retail sales dataset to understand product performance, city-wise sales, order status, payment methods, and daily sales trends.
 
 ## 🛠️ Tools & Technologies
